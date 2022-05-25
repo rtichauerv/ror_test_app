@@ -36,3 +36,6 @@
 
 # Ignore VS Code configurations
 .vscode
+
+# HTML test
+/index.html
